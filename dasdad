@@ -1,0 +1,42 @@
+[33mcommit 2ec0afbd95dd8aa4280cc1b77e6350a9d2786896[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Merge: ec9c793 559edc6
+Author: Matheus Santiago <matheussantiagopmw@gmail.com>
+Date:   Thu Oct 7 16:14:09 2021 -0300
+
+    .
+
+[33mcommit ec9c793ee1f19622c99ba822fd7f49abf51bf142[m
+Author: Matheus Santiago <matheussantiagopmw@gmail.com>
+Date:   Thu Oct 7 16:12:38 2021 -0300
+
+    adicionando a função de adicionar itens ao carrinho
+
+[33mcommit 559edc6cdf4740c37a5b39fadc666abf20be6373[m[33m ([m[1;31morigin/main[m[33m)[m
+Merge: f2fb13e 65e29f8
+Author: Matheus <76449448+matheusdevbr@users.noreply.github.com>
+Date:   Thu Oct 7 14:41:02 2021 -0300
+
+    Merge pull request #2 from matheusdevbr/master
+    
+    Merge pull request #1 from matheusdevbr/main
+
+[33mcommit 65e29f80a538a2943dcae0dae371693ecdeee018[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: 11d6c8e f2fb13e
+Author: Matheus <76449448+matheusdevbr@users.noreply.github.com>
+Date:   Thu Oct 7 14:39:01 2021 -0300
+
+    Merge pull request #1 from matheusdevbr/main
+    
+    exibindo a quantidade de produtos do array de produtos no carrinho do…
+
+[33mcommit f2fb13e21b9bb18316c88e61b5f963ddf508e920[m
+Author: Matheus Santiago <matheussantiagopmw@gmail.com>
+Date:   Wed Oct 6 15:45:09 2021 -0300
+
+    exibindo a quantidade de produtos do array de produtos no carrinho do header
+
+[33mcommit 11d6c8e838e824f1e3f7a9a56fff64ab5e6eb09d[m[33m ([m[1;32mmaster[m[33m)[m
+Author: Matheus <76449448+matheusdevbr@users.noreply.github.com>
+Date:   Mon Oct 4 08:06:38 2021 -0300
+
+    Initial commit
